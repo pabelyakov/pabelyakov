@@ -7,8 +7,8 @@
 - <img src='https://pabelyakov.github.io/icons/nodejs.svg' alt='NodeJS' height='20'> NodeJS + <img src='https://pabelyakov.github.io/icons/nestjs.svg' alt='NestJS' height='20'> NestJS
 - <img src='https://pabelyakov.github.io/icons/java.svg' alt='Java' height='20'> Java + <img src='https://pabelyakov.github.io/icons/springio.svg' alt='Spring' height='20'> Spring 
 - <img src='https://pabelyakov.github.io/icons/mongodb.svg' alt='MongoDB' height='20'> MongoDB
-- <img src='https://pabelyakov.github.io/icons/postgresql.png' alt='PostgreSQL' height='25'> PostgreSQL
-- <img src='https://pabelyakov.github.io/icons/redis.png' alt='Redis' height='25'> Redis
+- <img src='https://pabelyakov.github.io/icons/postgresql.png' alt='PostgreSQL' height='20'> PostgreSQL
+- <img src='https://pabelyakov.github.io/icons/redis.png' alt='Redis' height='20'> Redis
 - <img src='https://pabelyakov.github.io/icons/kafka.svg' alt='Kafka' height='20'> Kafka 
 - <img src='https://pabelyakov.github.io/icons/rmq.svg' alt='rmq' height='20'> RabbitMQ
 - <img src='https://pabelyakov.github.io/icons/docker.svg' alt='Docker' height='20'> Docker 
