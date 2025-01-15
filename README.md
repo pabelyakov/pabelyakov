@@ -16,16 +16,16 @@
 - <img src='https://pabelyakov.github.io/icons/gitlab.svg' alt='Gitlab' height='20'> / <img src='https://pabelyakov.github.io/icons/jenkins.svg' alt='Jenkins' height='20'> CI/CD
 - <img src='https://pabelyakov.github.io/icons/linux.svg' alt='Linux' height='15'><img src='https://pabelyakov.github.io/icons/debian.svg' alt='Debian' height='17'>❤️ Linux
 
-## **Little bit**
-- <img src='https://pabelyakov.github.io/icons/python.svg' alt='Python' height='20'> Python 3
-- <img src='https://pabelyakov.github.io/icons/go.svg' alt='Go' height='20'> Go
-
 ## **I'm diving now**
 - <img src='https://pabelyakov.github.io/icons/js.svg' alt='JS' height='20'> JS
 - <img src='https://pabelyakov.github.io/icons/ts.svg' alt='TS' height='20'> TS
 - <img src='https://pabelyakov.github.io/icons/nodejs.svg' alt='NodeJS' height='20'> NodeJS
 - <img src='https://pabelyakov.github.io/icons/nestjs.svg' alt='NestJS' height='20'> NestJS
 - <img src='https://pabelyakov.github.io/icons/angular.svg' alt='Angular' height='20'> Angular
+
+## **Little bit**
+- <img src='https://pabelyakov.github.io/icons/python.svg' alt='Python' height='20'> Python 3
+- <img src='https://pabelyakov.github.io/icons/go.svg' alt='Go' height='20'> Go
 
 ## **About me**
 
