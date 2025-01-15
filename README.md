@@ -3,6 +3,10 @@
 ![It's me :)](https://pabelyakov.github.io/img/logo.png)
 
 ## **My Stack**
+- <img src='https://pabelyakov.github.io/icons/js.svg' alt='JS' height='20'> JS
+- <img src='https://pabelyakov.github.io/icons/ts.svg' alt='TS' height='20'> TS
+- <img src='https://pabelyakov.github.io/icons/nodejs.svg' alt='NodeJS' height='20'> NodeJS
+- <img src='https://pabelyakov.github.io/icons/nestjs.svg' alt='NestJS' height='20'> NestJS
 - <img src='https://pabelyakov.github.io/icons/java.svg' alt='Java' height='20'> Java 
 - <img src='https://pabelyakov.github.io/icons/springio.svg' alt='Spring' height='20'> Spring 
 - <img src='https://pabelyakov.github.io/icons/mongodb.svg' alt='MongoDB' height='20'> MongoDB
@@ -17,11 +21,9 @@
 - <img src='https://pabelyakov.github.io/icons/linux.svg' alt='Linux' height='15'><img src='https://pabelyakov.github.io/icons/debian.svg' alt='Debian' height='17'>❤️ Linux
 
 ## **I'm diving now**
-- <img src='https://pabelyakov.github.io/icons/js.svg' alt='JS' height='20'> JS
-- <img src='https://pabelyakov.github.io/icons/ts.svg' alt='TS' height='20'> TS
-- <img src='https://pabelyakov.github.io/icons/nodejs.svg' alt='NodeJS' height='20'> NodeJS
-- <img src='https://pabelyakov.github.io/icons/nestjs.svg' alt='NestJS' height='20'> NestJS
 - <img src='https://pabelyakov.github.io/icons/angular.svg' alt='Angular' height='20'> Angular
+- <img src='https://pabelyakov.github.io/icons/terraform.png' alt='Terraform' height='20'> Terraform
+- <img src='https://pabelyakov.github.io/icons/ansible' alt='Ansible' height='20'> Ansible
 
 ## **Little bit**
 - <img src='https://pabelyakov.github.io/icons/python.svg' alt='Python' height='20'> Python 3
