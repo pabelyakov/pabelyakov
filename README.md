@@ -23,7 +23,7 @@
 ## **I'm diving now**
 - <img src='https://pabelyakov.github.io/icons/angular.svg' alt='Angular' height='20'> Angular
 - <img src='https://pabelyakov.github.io/icons/terraform.png' alt='Terraform' height='20'> Terraform
-- <img src='https://pabelyakov.github.io/icons/ansible' alt='Ansible' height='20'> Ansible
+- <img src='https://pabelyakov.github.io/icons/ansible.png' alt='Ansible' height='20'> Ansible
 
 ## **Little bit**
 - <img src='https://pabelyakov.github.io/icons/python.svg' alt='Python' height='20'> Python 3
