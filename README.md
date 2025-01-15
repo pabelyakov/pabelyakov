@@ -25,7 +25,7 @@
 - <img src='https://pabelyakov.github.io/icons/ts.svg' alt='TS' height='20'> TS
 - <img src='https://pabelyakov.github.io/icons/nodejs.svg' alt='NodeJS' height='20'> NodeJS
 - <img src='https://pabelyakov.github.io/icons/nestjs.svg' alt='NestJS' height='20'> NestJS
-- And maybe <img src='https://pabelyakov.github.io/icons/angular.svg' alt='Angular' height='20'> Angular
+- <img src='https://pabelyakov.github.io/icons/angular.svg' alt='Angular' height='20'> Angular
 
 ## **About me**
 
