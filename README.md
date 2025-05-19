@@ -20,6 +20,7 @@
 
 ## **Little bit**
 - <img src='https://pabelyakov.github.io/icons/python.svg' alt='Python' height='20'> Python
+- <img src='https://pabelyakov.github.io/icons/go.svg' alt='Python' height='20'> Go
 
 ## **About me**
 
