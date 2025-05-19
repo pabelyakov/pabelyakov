@@ -18,12 +18,6 @@
 - <img src='https://pabelyakov.github.io/icons/gitlab.svg' alt='Gitlab' height='20'> / <img src='https://pabelyakov.github.io/icons/jenkins.svg' alt='Jenkins' height='20'> CI/CD
 - <img src='https://pabelyakov.github.io/icons/linux.svg' alt='Linux' height='15'><img src='https://pabelyakov.github.io/icons/debian.svg' alt='Debian' height='17'>❤️ Linux
 
-## **I'm diving now**
-- <img src='https://pabelyakov.github.io/icons/angular.svg' alt='Angular' height='20'> Angular
-- <img src='https://pabelyakov.github.io/icons/ansible.png' alt='Ansible' height='20'> Ansible
-- <img src='https://pabelyakov.github.io/icons/terraform.png' alt='Terraform' height='20'> Terraform
-- <img src='https://pabelyakov.github.io/icons/go.svg' alt='Go' height='20'> Go
-
 ## **Little bit**
 - <img src='https://pabelyakov.github.io/icons/python.svg' alt='Python' height='20'> Python
 
