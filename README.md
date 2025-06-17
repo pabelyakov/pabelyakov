@@ -1,4 +1,4 @@
-### Petr Belyakov, Software Engineer.
+### Petr Belyakov, System Architect.
 
 ![It's me :)](https://pabelyakov.github.io/img/logo.png)
 
