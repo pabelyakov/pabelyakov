@@ -41,4 +41,4 @@ As a hobby: like of Chinese tea, technology, games, books and movies/TV series.
 ## **Contacts**
 - [<img src='https://pabelyakov.github.io/icons/telegram_channel.svg' alt='telegram_channel' height='30'>](https://t.me/fear_in_conf) [Read](https://t.me/fear_in_conf "My telegram channel")
 - [<img src='https://pabelyakov.github.io/icons/telegram.svg' alt='telegram' height='30'>](http://t.me/pabelyakov) [Write](https://t.me/pabelyakov "My telegram")
-- [<img src='https://pabelyakov.github.io/icons/cv.svg' alt='cv' height='30'>](https://hh.ru/resume/bc4eeca7ff0c764aa10039ed1f71744a514f45) [Hire](https://career.habr.com/pabelyakov "My CV")
+- [<img src='https://pabelyakov.github.io/icons/cv.svg' alt='cv' height='30'>](https://pabelyakov.ru) [Hire](https://pabelyakov.ru "My CV")
